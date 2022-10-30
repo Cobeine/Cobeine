@@ -2,7 +2,7 @@
 
 ###### - Mathematics & Physics nerd.
 ###### - Computer science student.
-###### - Gamer & probably mentally retarded.
+###### - A person with trust issues.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cobeine&theme=highcontrast" />
 
