@@ -7,4 +7,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cobeine&theme=highcontrast" />
 
 
-![](https://komarev.com/ghpvc/?username=Cobeine&color=gray)
+![](https://komarev.com/ghpvc/?username=Sqlehh&color=gray)
