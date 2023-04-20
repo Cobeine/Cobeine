@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0saturnine&label=Profile%20views&color=0e75b6&style=flat" alt="0saturnine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0saturnine" alt="0saturnine" /></a> </p>
-
 - 🔭 I’m currently working at [UltimisMC](http://discord.gg/ultimismc)
 
 - 🌱 I’m currently learning **Ruby & Blender**
@@ -17,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/0saturnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0saturnine" height="30" width="40" /></a>
 <a href="https://instagram.com/0saturnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0saturnine" height="30" width="40" /></a>
+<a href="https://discord.gg/Saturnine#8662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Saturnine#8662" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
