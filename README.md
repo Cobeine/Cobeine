@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Minestom](https://minestom.net/)
 
-- 📫 How to reach me **Saleh9x1@gmail.com or Saturnine#8662 on discord**
+- 📫 To reach me mail **Saleh9x1@gmail.com or message Saturnine#8662 on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
