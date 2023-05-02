@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Cobeine&label=Profile%20views&color=0e75b6&style=flat" alt="0saturnine" /> </p>
 
-- 🔭 I’m currently working @ [UltimisMC](http://discord.gg/ultimismc)
+<p align="center"> - 🔭 I’m currently working @ <a href="http://discord.gg/ultimismc"> UltimisMC</a></p>
 
-- 🌱 I’m currently learning **Ruby & Blender**
+<p align="center"> <p align="center"> - 🌱 I’m currently learning <b>Ruby & Blender</b></p>
 
-- 👯 I’m looking to collaborate on [Minestom](https://minestom.net/)
+<p align="center"> - 👯 I’m looking to collaborate on <a href="https://minestom.net/">Minestom</a></p>
 
-- 📫 You can reach me @ **Saleh9x1@gmail.com**
+<p align="center"> - 📫 You can reach me @ my <a href="mailto:Saleh9x1@gmail.com">personal email</a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
