@@ -7,7 +7,7 @@
 
 <p align="center">👯 I’m looking to collaborate on <a href="https://minestom.net/">Minestom</a></p>
 
-<p align="center">📫 You can reach me @ my <a href="mailto:cobeine.business@gmail.com">email</a> </p>
+<p align="center">📫 You can reach me @ <a href="mailto:cobeine.business@gmail.com">email</a> </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
