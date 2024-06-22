@@ -9,7 +9,7 @@
 
 <p align="center">📫 You can reach me @ my <a href="mailto:cobeine.business@gmail.com">email</a> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/Cobeine_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Cobeine" height="30" width="40" /></a>
 <a href="https://instagram.com/Cobeine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Cobeine" height="30" width="40" /></a>
