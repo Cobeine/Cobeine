@@ -7,7 +7,7 @@
 
 <p align="center">👯 I’m looking to collaborate on <a href="https://minestom.net/">Minestom</a></p>
 
-<p align="center">📫 My personal [portfolio](https://cobeine.vercel.app/)</a> </p>
+<p align="center">📫 My personal <a href="https://cobeine.vercel.app/">portfolio</a> </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
