@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cobeine</h1>
 <h3 align="center">Passionate Java developer based in Egypt</h3>
 
-<p align="center">🔭 I’m currently working @ <a href="http://discord.gg/ultimismc"> UltimisMC</a></p>
+<p align="center">🔭 I’m currently working @ <a href="http://discord.gg/https://discord.gg/C5uPBDjG4j">Makera.gg</a></p>
 
 <p align="center"> <p align="center">🌱 I’m currently studying for <b>Java OCP</b></p>
 
 <p align="center">👯 I’m looking to collaborate on <a href="https://minestom.net/">Minestom</a></p>
 
-<p align="center">📫 You can reach me @<a href="mailto:cobeine.business@gmail.com">private email</a> </p>
+<p align="center">📫 My personal [portfolio](https://cobeine.vercel.app/)</a> </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
