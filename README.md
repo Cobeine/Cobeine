@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cobeine</h1>
 <h3 align="center">Passionate Java developer based in Egypt</h3>
 
-<p align="center">🔭 I’m currently working @ <a href="http://discord.gg/https://discord.gg/C5uPBDjG4j">Makera.gg</a></p>
+<p align="center">🔭 I’m currently working @<a href="http://discord.gg/https://discord.gg/C5uPBDjG4j">Makera.gg</a></p>
 
 <p align="center"> <p align="center">🌱 I’m currently studying for <b>Java OCP</b></p>
 
