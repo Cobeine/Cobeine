@@ -3,7 +3,7 @@
 
 <p align="center">🔭 I’m currently working @<a href="http://discord.gg/https://discord.gg/C5uPBDjG4j">Makera.gg</a></p>
 
-<p align="center"> <p align="center">🌱 I’m currently studying for <b>Java OCP</b></p>
+<p align="center"> <p align="center">🌱 I’m currently studying <b>Computer Science</b></p>
 
 <p align="center">👯 I’m looking to collaborate on <a href="https://minestom.net/">Minestom</a></p>
 
