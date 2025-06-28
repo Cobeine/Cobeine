@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cobeine</h1>
 <h3 align="center">Passionate Java developer based in Egypt</h3>
 
-<p align="center">🔭 I’m currently working @<a href="http://discord.gg/https://discord.gg/C5uPBDjG4j">Makera.gg</a></p>
+<p align="center">🔭 I’m currently working @ <a href="http://discord.gg/https://discord.gg/C5uPBDjG4j">Makera.gg</a></p>
 
 <p align="center"> <p align="center">🌱 I’m currently studying <b>Computer Science</b></p>
-
-<p align="center">👯 I’m looking to collaborate on <a href="https://minestom.net/">Minestom</a></p>
 
 <p align="center">📫 My personal <a href="https://cobeine.vercel.app/">portfolio</a> </p>
 
